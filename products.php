@@ -6,7 +6,7 @@
 <html>
     <head>
         <link rel="shortcut icon" href="img/lifestyleStore.png" />
-        <title>Projectworlds Store</title>
+        <title>Riotech Store</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- latest compiled and minified CSS -->
@@ -25,7 +25,7 @@
             ?>
             <div class="container">
                 <div class="jumbotron">
-                    <h1>Welcome to our Projectworlds Store!</h1>
+                    <h1>Welcome to our Riotech Store!</h1>
                     <p>We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place.</p>
                 </div>
             </div>
@@ -366,8 +366,8 @@
            <footer class="footer">
                <div class="container">
                 <center>
-                   <p>Copyright &copy <a href="https://projectworlds.in">Projectworlds</a> Store. All Rights Reserved.</p>
-                   <p>This website is developed by Yugesh Verma</p>
+                   <p>Copyright &copy <a href="https://Riotech.in">Riotech</a> Store. All Rights Reserved.</p>
+                   <p>This website is developed by Rioland Adedamola </p>
                </center>
                </div>
            </footer>

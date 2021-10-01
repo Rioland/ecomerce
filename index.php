@@ -5,7 +5,7 @@ session_start();
 <html>
     <head>
         <link rel="shortcut icon" href="img/lifestyleStore.png" />
-        <title>Projectworlds Store</title>
+        <title>Riotech Store</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- latest compiled and minified CSS -->
@@ -80,8 +80,8 @@ session_start();
            <footer class="footer"> 
                <div class="container">
                <center>
-                   <p>Copyright &copy <a href="https://projectworlds.in">Projectworlds</a> Store. All Rights Reserved.</p>
-                   <p>This website is developed by Yugesh Verma</p>
+                   <p>Copyright &copy <a href="https://Riotech.in">Riotech</a> Store. All Rights Reserved.</p>
+                   <p>This website is developed by Rioland Adedamola </p>
                </center>
                </div>
            </footer>
